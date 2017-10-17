@@ -3,7 +3,11 @@ ToDos, What i Learned, ETC...
 
 
 personal website
+
 LHA
+
 Apartment
+
 Python
+
 Java
