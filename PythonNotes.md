@@ -11,7 +11,7 @@ booleans require capitalization
 
 INDENTATION IS SUPER IMPORTANT
 
-    > def spam():
+     def spam():
       eggs = 12
       return eggs
 
