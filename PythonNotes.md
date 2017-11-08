@@ -26,3 +26,5 @@ Comments '#'
   
 math can be inside of variables
 powers can be **, so 2**3 = 8
+
+when coming to escaping characters, use a '\' within a string
