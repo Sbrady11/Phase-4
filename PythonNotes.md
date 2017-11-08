@@ -1,22 +1,21 @@
-test
-
 Looks like its mostly like ruby (just oo)
 
 dont need a def or anything, or let, just ascribe a value
 
-eg. my_variable = 10
-pring my_variable
+    eg. my_variable = 10
+    pring my_variable
 
 booleans require capitalization
-True/False
+     
+     True/False
 
 INDENTATION IS SUPER IMPORTANT
 
-def spam():
-  eggs = 12
-  return eggs
+    > def spam():
+      eggs = 12
+      return eggs
 
-print spam()
+    print spam()
 
 Comments '#'
   triple " for making a multi line commment
