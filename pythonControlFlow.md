@@ -28,4 +28,16 @@ Looks slightly different to other languages
 
     Not True is False
     Not False is True
+    
+## Order of Operations
+
+Boolean operators aren't just evaluated from left to right. Just like with arithmetic operators, there's an order of operations for boolean operators:
+
+    not is evaluated first;
+    and is evaluated next;
+    or is evaluated last.
+    
+For example, True or not False and False returns True. If this isn't clear, look at the Hint.
+
+Parentheses () ensure your expressions are evaluated in the order you want. Anything in parentheses is evaluated as its own unit.
 
