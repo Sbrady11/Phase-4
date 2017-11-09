@@ -71,6 +71,45 @@ The % operator after a string is used to combine a string with variables. The % 
         Ah, so your name is simon, your quest is i seek the holy grail, and your favorite color is blue.
         
 You use 'raw_input' in order to prompt the user in the console
+
+## DateTime
+
+        from datetime import datetime
+
+        now = datetime.now()
+        print now
+        
+        > 2017-11-09 20:39:07.431010
+
+Looks like were getting access to it, like requiring a gem or a module, then you can call methods on it. It looks like its a 'datetime' object too.
+
+        print now.year
+        print now.month
+        print now.day
+        
+        > 2017
+        11
+        9
+
+can use string interpolation here too
+
+        from datetime import datetime
+        now = datetime.now()
+
+        print '%s/%s/%s' % (now.year, now.month, now.day)
+        
+        > 2017/11/9
+        
+        from datetime import datetime
+        now = datetime.now()
+
+        print '%s/%s/%s %s:%s:%s' % (now.month, now.day, now.year, now.hour, now.minute, now.second)
+        
+        > 1/9/2017 20:44:15
+
+
+        
+
     
     
 
