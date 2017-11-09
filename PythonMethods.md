@@ -1,3 +1,4 @@
+## Methods
 len() - returns the length of the string
 eg: 
     parrot = "Norwegian Blue"
