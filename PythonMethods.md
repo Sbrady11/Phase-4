@@ -25,6 +25,9 @@ eg:
     str(2)
     
     > "2"
+    
+.isalpha()
+    returns true if the string only contains letters
 
 RULES
 Dot notation
