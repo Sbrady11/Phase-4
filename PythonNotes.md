@@ -1,3 +1,5 @@
+## Python Notes
+
 Looks like its mostly like ruby (just oo)
 
 dont need a def or anything, or let, just ascribe a value
