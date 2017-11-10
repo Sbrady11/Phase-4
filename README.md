@@ -1,16 +1,6 @@
-# Phase-4
-ToDos, What i Learned, ETC...
+## Phase-4
+Repository for language practice and notes
 
-
-personal website
-
-LHA
-
-Apartment
-
+# Languages thus far
 Python
-
 Java
-
-
-PANSPOTSSKILLET - DONE
