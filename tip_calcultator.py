@@ -8,7 +8,7 @@ total = meal + meal * tip
 print("%.2f" % total)
 # this is how to print out a formatted total with only two decimal places
 
--------------------------------------------------------------------------
+########################################################################
 def tax(bill):
   """Adds 8% tax to a restaurant bill."""
   bill *= 1.08
