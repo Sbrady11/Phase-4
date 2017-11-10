@@ -41,3 +41,21 @@ For example, True or not False and False returns True. If this isn't clear, look
 
 Parentheses () ensure your expressions are evaluated in the order you want. Anything in parentheses is evaluated as its own unit.
 
+## If/Else
+Indentation and notation are like this:
+
+        answer = "'Tis but a scratch!"
+
+        def black_knight():
+            if answer == "'Tis but a scratch!":
+                return True
+            else:             
+                return False       # Make sure this returns False
+
+        def french_soldier():
+            if answer == "Go away, or I shall taunt you a second time!":
+                return True
+            else:             
+                return False       # Make sure this returns False
+
+
