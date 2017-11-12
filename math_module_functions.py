@@ -13,3 +13,8 @@ def distance_from_zero(arg):
 biggest_number(-10, -5, 5, 10)
 smallest_number(-10, -5, 5, 10)
 distance_from_zero(-10)
+
+
+max() ## will show the largest number of any list, min() does the opposite
+abs() ## absolute value
+type() ## knows what type of object things are, being float, int, or str
