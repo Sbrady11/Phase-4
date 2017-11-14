@@ -41,6 +41,8 @@ eg:
     
     >['some_string']
 
+some_list.remove('item')
+
 ## Methods cont
 
 del list['item']
