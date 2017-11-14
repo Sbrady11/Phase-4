@@ -117,6 +117,14 @@ can use string interpolation here too
 It seems in python that arrays are known as lists?
 
 follows the same rules, can access using the index value. is equivalent to stuff youve done in JS and Ruby
+
+slicing the list
+    
+    some_list = [1,2,3]
+    first = some_list[0:2]
+    
+    print first
+    > [1,2]
     
     
 
