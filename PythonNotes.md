@@ -158,3 +158,13 @@ This is valid
  
 
 ordering your list by finding the index itme is valid, returns the index value of the searched term
+
+## Loops
+
+- for
+runs over a list, executes code over a variable you assign
+
+        for number in my_list:
+            print 2 * number
+
+
