@@ -110,8 +110,13 @@ can use string interpolation here too
         > 1/9/2017 20:44:15
 
 
-        
+## Lists
 
+    list_name = [1,2]
+
+It seems in python that arrays are known as lists?
+
+follows the same rules, can access using the index value. is equivalent to stuff youve done in JS and Ruby
     
     
 
