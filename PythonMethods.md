@@ -28,6 +28,10 @@ eg:
     
 .isalpha()
     returns true if the string only contains letters
+    
+    
+.append(arg)
+    adds an item to a list(array)
 
 RULES
 Dot notation
