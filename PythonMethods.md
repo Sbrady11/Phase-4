@@ -29,9 +29,17 @@ eg:
 .isalpha()
     returns true if the string only contains letters
     
+    string.isalpha()
+    
+    >True
+    
     
 .append(arg)
     adds an item to a list(array)
+    
+    some_list.append('string')
+    
+    >['some_string']
 
 RULES
 Dot notation
