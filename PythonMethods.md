@@ -41,6 +41,11 @@ eg:
     
     >['some_string']
 
+## Methods cont
+
+del list['item']
+
+
 RULES
 Dot notation
   dot notation works ONLY with strings
