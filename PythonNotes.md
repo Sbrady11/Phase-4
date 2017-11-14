@@ -166,5 +166,15 @@ runs over a list, executes code over a variable you assign
 
         for number in my_list:
             print 2 * number
+            
+        start_list = [5, 3, 1, 2, 4]
+        square_list = []
+
+        for numbers in start_list:
+            square_list.append(numbers ** 2)
+  
+        square_list.sort()
+
+        print square_list
 
 
