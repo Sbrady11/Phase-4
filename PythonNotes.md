@@ -177,4 +177,22 @@ runs over a list, executes code over a variable you assign
 
         print square_list
 
+## Dictionaries
+
+sounds like the hashes
+
+same thing, you can add things to the hash with the similar key:value pairing methods
+
+        menu = {} # Empty dictionary
+        menu['Chicken Alfredo'] = 14.50 # Adding new key-value pair
+        print menu['Chicken Alfredo']
+
+        menu['spaghetti'] = 99.99
+        menu['yes'] = 1
+        menu['k']= 2
+
+        print "There are " + str(len(menu)) + " items on the menu."
+        print menu
+        
+  
 
