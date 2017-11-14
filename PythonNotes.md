@@ -142,7 +142,19 @@ slicing the list
 Open ended colon means either from the front (:x) or to the end (x:)
 
     
-    
+## Ordering lists
 
+This is valid
 
+        animals = ["aardvark", "badger", "duck", "emu", "fennec fox"]
+        
+        duck_index = animals.index("duck")
+        
+        animals.insert(duck_index, 'cobra')
+        
+        print animals
+        
+        > ['aardvark', 'badger', 'cobra', 'duck', 'emu', 'fennec fox']
+ 
 
+ordering your list by finding the index itme is valid, returns the index value of the searched term
