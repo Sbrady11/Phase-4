@@ -52,6 +52,7 @@ RULES
 Dot notation
   dot notation works ONLY with strings
   len() and str() work with other data types
-    
+  
+Checkout similar methods and rules on JS and Ruby
   
 
