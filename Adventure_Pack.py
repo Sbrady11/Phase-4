@@ -18,4 +18,6 @@ inventory['backpack'].remove('dagger')
 
 inventory['gold'] += 50
 
+inventory['pouch'].remove('flint')
+
 print inventory
