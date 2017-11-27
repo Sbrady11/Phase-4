@@ -21,3 +21,5 @@ inventory['gold'] += 50
 inventory['pouch'].remove('flint')
 
 print inventory
+
+print inventory['gold']
