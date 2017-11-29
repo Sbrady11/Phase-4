@@ -24,4 +24,4 @@ and if you wanted to import everything from a module, you can use a universal im
     everything = dir(math) # Sets everything to a list of things from math
     print everything # Prints 'em all!
  
-good way to see everything that your module can do! remember this
+good way to see everything that your module can do! remember this.
