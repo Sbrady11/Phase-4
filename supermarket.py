@@ -8,3 +8,6 @@ for food in prices:
   print food
   print "price: %s" % prices[food]
   print "stock: %s" % stock[food]
+  
+  print "hello World"
+  
