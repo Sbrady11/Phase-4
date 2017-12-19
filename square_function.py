@@ -5,3 +5,4 @@ def square(n):
   return squared
 
 square(10)
+square(50)
