@@ -14,4 +14,5 @@ def fizz_buzz(num):
       print "fizz"
     elif value % 5 == 0:
       print "buzz"
-      
+    else:
+      print value
