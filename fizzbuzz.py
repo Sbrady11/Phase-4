@@ -8,3 +8,4 @@ def fizz_count(string):
 def fizz_buzz(number):
   print("\n".join(["Fizz"*(i%3==0)+"Buzz"*(i%5==0) or str(i) for i in range(1,number + 1)]))
   
+fizz_buzz(22)
