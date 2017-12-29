@@ -1,4 +1,4 @@
-## Python Notes
+# Python Notes
 
 Looks like its mostly like ruby (just oo)
 
