@@ -9,7 +9,7 @@ if you wanted two panels on a page, theyd be 6 long
  
 using divs, obviously, adding the class.
 use container div
-then `class="row"`
+then 
 
-`<div class="row">
-  <div class="col-md-6">`
+    <div class="row">
+      <div class="col-md-6">
