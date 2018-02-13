@@ -6,4 +6,10 @@ declare like so
 
 p class='class'
 
-#Span
+# Span
+
+# Media Queries
+
+min-width- At this MINIMUM, something happens
+
+as in @media(min-width:600px) executes when the window is at LEAST 600px
