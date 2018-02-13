@@ -33,3 +33,17 @@ the dollar sign is short hand for calling a jquery function, the argument is the
     </script>
     
 This will call the function on the dom loading.
+
+
+# Anonymous Functions
+
+They get passed in to whatever youre calling, and never is used again. In this instance, it passes into click, changing the functionality of the button. 
+
+        $("#title").click(function () {
+            $("#title").html("Hello");
+            $("#title").off("click");
+         });
+    
+.off turns off funtionality, reverts back to the old function, returning click to whatever it did before.
+
+    
